@@ -1,2 +1,2 @@
-# https-malogan82.github.io-coursera-angularjs-assignment2-module2-solution-
+coursera-angularjs-assignment2
 Module 2 - Assignment
